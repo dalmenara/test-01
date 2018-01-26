@@ -3,7 +3,12 @@ html {
     color: white;
 }
 
-p {
+h2 {
     font-size: 100px;
     text-align: center;
     }
+
+p {
+    font-family: Courier New, Courier, monospace;
+    font-size: 50px;
+}
